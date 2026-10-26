@@ -1,0 +1,22 @@
+{
+  "keep_rules": [
+    {
+      "predicates": [
+        {
+          "col": "title",
+          "type": "bm25_topk",
+          "tokenizer": "word",
+          "k": 10
+        },
+        {
+          "col": "authors",
+          "type": "cosine",
+          "tokenizer": "qgram:3",
+          "op": ">=",
+          "val": 0.5
+        }
+      ]
+    }
+  ],
+  "drop_rules": []
+}
