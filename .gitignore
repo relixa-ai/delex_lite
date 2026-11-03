@@ -1,0 +1,14 @@
+# Environment created by install.sh
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Written by the tutorial and the notebook
+candidates.csv
+candidates.parquet
+
+# macOS
+.DS_Store

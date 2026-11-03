@@ -1,0 +1,15 @@
+{
+  "keep_rules": [
+    {
+      "predicates": [
+        {
+          "col": "title",
+          "type": "bm25_topk",
+          "tokenizer": "word",
+          "k": 10
+        }
+      ]
+    }
+  ],
+  "drop_rules": []
+}

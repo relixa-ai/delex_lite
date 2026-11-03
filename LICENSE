@@ -1,0 +1,93 @@
+delex_lite — SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2026 RELIXA SYSTEMS INC. All rights reserved.
+
+SUMMARY
+You may use Delex Lite free of charge, including commercially, and make copies for
+permitted use and backup. Relixa claims no ownership of your input data or results.
+You may not redistribute or resell the Software. It is provided without a promise of
+support or warranty. This summary is for convenience; the terms below govern your use.
+
+This Software License Agreement ("Agreement") is a legal agreement between you
+("Licensee") and RELIXA SYSTEMS INC., a Delaware corporation ("Licensor"), for the
+delex_lite software, including the accompanying wheel, native libraries and
+documentation (collectively, the "Software"). By installing or using the Software,
+you agree to be bound by this Agreement. If you do not agree, do not install or use the
+Software.
+
+1. LICENSE GRANT
+   Subject to your compliance with this Agreement, Licensor grants you a limited,
+   non-exclusive, non-transferable, non-sublicensable, royalty-free license to install
+   and use the Software for any lawful purpose, including commercial use. You may make
+   copies needed to install and use it on devices you own or control and for backup.
+   If you are an organization, your employees and contractors may use these copies on
+   your behalf, provided they comply with this Agreement. You remain responsible for
+   their use. You may call the Software's public interfaces from your applications
+   and workflows.
+
+2. TERM
+   This license continues until it terminates under Section 8. Licensor is under no
+   obligation to provide support, updates, or continued availability of the Software,
+   and may release later versions of the Software under different terms.
+
+3. RESTRICTIONS
+   You shall NOT, and shall not permit any third party to:
+   (a) reverse engineer, decompile, disassemble, or otherwise attempt to derive the
+       source code, algorithms, structure, or internal design of the Software, except to
+       the limited extent applicable law expressly prohibits this restriction;
+   (b) copy the Software except as permitted in Section 1, or distribute, sell, rent,
+       lease, sublicense, publish, or otherwise make it available to third parties
+       except for employees and contractors using it on your behalf under Section 1;
+   (c) modify, adapt, translate, or create derivative works based on the Software;
+   (d) circumvent, disable, or tamper with any obfuscation, anti-tamper, usage limit, or
+       other technical protection measure in the Software; or
+   (e) remove or alter any proprietary notices.
+
+4. OWNERSHIP
+   The Software is licensed, not sold. Licensor retains its rights in its implementation,
+   documentation and other proprietary materials. This Agreement does not claim
+   ownership of generally known algorithms or methods, including BM25 and the set and
+   string similarity measures, such as Jaccard, cosine and Jaro-Winkler. No rights in
+   Licensor's Software are granted except as expressly set out here.
+
+   Licensor claims no ownership of your input data or the output you produce, such as
+   candidate pairs. This Agreement places no restriction on your use of that output.
+   You remain responsible for any rights or restrictions applicable to the underlying
+   data.
+
+   Third-party components and sample datasets remain subject to their applicable
+   licenses and attribution requirements. This Agreement does not replace those terms
+   or grant rights that Licensor does not hold.
+
+5. FEEDBACK
+   Providing suggestions and bug reports is optional. Licensor may use them to improve
+   its products without payment or attribution. This permission does not transfer
+   ownership of your data or grant rights in files or datasets supplied with a report.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE SOFTWARE
+   MAY CONTAIN ERRORS, AND YOU ARE RESPONSIBLE FOR CHECKING ITS OUTPUT BEFORE RELYING ON
+   IT.
+
+7. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT,
+   INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, OR FOR ANY LOSS OF DATA,
+   PROFITS, OR BUSINESS, ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS AGREEMENT.
+   LICENSOR'S TOTAL AGGREGATE LIABILITY SHALL NOT EXCEED THE AMOUNT YOU PAID FOR THE
+   SOFTWARE. NOTHING IN THIS AGREEMENT EXCLUDES OR LIMITS LIABILITY OR RIGHTS THAT
+   CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+
+8. TERMINATION
+   This Agreement and your license terminate automatically upon your breach of any term.
+   On termination you must stop using and delete all copies of the Software. Sections 3
+   through 9 survive termination.
+
+9. GENERAL
+   This Agreement is governed by the laws of the State of Wisconsin, United States,
+   without regard to its conflict-of-laws rules. It is the entire agreement between the
+   parties regarding the Software and supersedes any prior understanding. If any
+   provision is held unenforceable, the remaining provisions remain in effect.
+
+Contact: hello@relixa.ai
